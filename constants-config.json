@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "1bf36ad38e4e800a9364fdb19a30acd6?v=1bf36ad38e4e81baab8f000cbad3eb73",
+	"author": "Anushka Sivakumar",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
@@ -15,9 +15,10 @@
 	},
 	"google-search-console-html-tag": "",
 	"socials": {
-		"email": "",
-		"github": "",
-		"googlescholar": "",
+		"email": "anushkas2201@gmail.com",
+		"github": "https://github.com/22anushka",
+		"googlescholar": "https://scholar.google.com/citations?user=AZvo27MAAAAJ&hl=en",
+		"linkedin": "https://www.linkedin.com/in/anushka-sivakumar/"
 		"semanticscholar": "",
 		"dblp": "",
 		"substack": "",
@@ -30,18 +31,20 @@
 		"calendar": "",
 		"kofi": "",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": ""
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"data-repo": "22anushka/22anushka",
+		"data-repo-id": "R_kgDOONIIbQ",
 		"data-category": "Announcements",
 		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
-		"data-reactions-enabled": true
+		"data-reactions-enabled": true,
+		"data-theme"="dark",
+		"data-lang"="en"
 	},
 	"bluesky-comments": {
 		"show-comments-from-bluesky": false,
