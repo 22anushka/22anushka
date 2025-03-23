@@ -41,9 +41,7 @@
 		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
-		"data-reactions-enabled": true,
-		"data-theme"="dark",
-		"data-lang"="en"
+		"data-reactions-enabled": true
 	},
 	"bluesky-comments": {
 		"show-comments-from-bluesky": false,
